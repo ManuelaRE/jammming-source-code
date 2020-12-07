@@ -15,7 +15,7 @@ To run this project you need to:
 
 ### `clone project`
 ### Run `npm install`
-### You will need to get an API key from  [Spotify](https://developer.spotify.com/documentation/web-api/)
+### Get an API key from  [Spotify](https://developer.spotify.com/documentation/web-api/)
 ### `npm start`
 
 Runs the app in the development mode.<br />
